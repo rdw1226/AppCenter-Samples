@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>UITestDemo</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.appcenter.UITestDemo</string>
+	<string>com.microsoft.appcentercss.*</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
